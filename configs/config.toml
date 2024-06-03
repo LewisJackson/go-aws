@@ -1,0 +1,2 @@
+[aws]
+TableName = "http-function-url-tutorial"
